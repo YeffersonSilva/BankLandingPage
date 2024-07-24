@@ -1,6 +1,6 @@
 # Bank SPA Project
 
-We are going to create a Single Page Application (SPA) for a bank with a modern design. We will build it using NextJS, Tailwind CSS, Framer Motion, and TypeScript, step by step from scratch. At the end of the video, we will deploy it on Netlify so that our website is accessible on a public domain for anyone to see for free.
+ We will build it using NextJS, Tailwind CSS, Framer Motion, and TypeScript, step by step from scratch. At the end of the video, we will deploy it on Netlify so that our website is accessible on a public domain for anyone to see for free.
 
 <div align="center">
 
