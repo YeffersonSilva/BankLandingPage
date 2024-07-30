@@ -1,6 +1,7 @@
 # Bank SPA Project
 
  We will build it using NextJS, Tailwind CSS, Framer Motion, and TypeScript, step by step from scratch. At the end of the video, we will deploy it on Netlify so that our website is accessible on a public domain for anyone to see for free.
+ Deploy: https://banklandingpage-production.up.railway.app/
 
 <div align="center">
 
